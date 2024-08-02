@@ -1,6 +1,4 @@
 
-
-
 import  { useEffect, useState } from 'react'
 import './App.css';
 import Infotable from './Components/Infotable';
